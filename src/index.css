@@ -1,0 +1,21 @@
+.svg-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.svg-tile {
+  height: 30vh;
+  min-width: 33vw;
+  margin-bottom: 3em;
+}
+
+.svg-tile > svg {
+  height: calc(100% - 2em);
+}
+
+.svg-tile > p {
+  height: 1em;
+  margin: 0;
+  padding: 0;
+}
