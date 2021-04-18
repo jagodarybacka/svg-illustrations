@@ -1,10 +1,9 @@
 import React from 'react';
 import { getSvgs } from './svgs';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <header>
         <h1>SVG illustrations</h1>
         <h2>SVGs I have made for fun in Inkscape</h2>
