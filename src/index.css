@@ -1,3 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,900|Martel:400,700');
+
+body {
+    font-family: 'Martel', serif;
+    color: #2B394A;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+h1, h2 {
+    font-family: 'Karla', sans-serif;
+    font-weight: 900;
+}
+
+h1 {
+  font-size: 10em;
+  margin-bottom: .25em;
+  letter-spacing: 3px;
+  text-shadow: -5px 0 0 #FDA5A4;
+}
+
+h2 {
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+header {
+  margin-bottom: 5em;
+  position: relative;
+  display: inline-block;
+}
+
+footer {
+  font-size: 1.25em;
+  font-weight: 700;
+  background: #FDA5A4;
+  color: #fff;
+  padding: 4em 0 3em;
+  margin-top: 3em;
+}
+
+footer a {
+  color: #fff;
+}
+
 .svg-list {
   display: flex;
   flex-wrap: wrap;
@@ -5,17 +51,41 @@
 }
 
 .svg-tile {
-  height: 30vh;
-  min-width: 33vw;
-  margin-bottom: 3em;
+  min-width: 30%;
+  max-width: 100%;
+  margin: 1em;
 }
 
 .svg-tile > svg {
-  height: calc(100% - 2em);
+  height: 100%;
+  max-height: 40em;
+  width: 100%;
+  min-width: 30%;
 }
 
-.svg-tile > p {
-  height: 1em;
-  margin: 0;
-  padding: 0;
+::-moz-selection {
+  background: #2B394A;
+  color: #FDA5A4;
+}
+::selection  {
+  background: #2B394A;
+  color: #FDA5A4;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 8em;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 4em;
+  }
 }

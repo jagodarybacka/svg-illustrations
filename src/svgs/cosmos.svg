@@ -1,76 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 132.292 132.292">
   <defs>
-    <linearGradient id="h">
+    <linearGradient id="cosmos-h">
       <stop offset="0" stop-color="#0e0327"/>
       <stop offset=".56" stop-color="#3a0ca3"/>
       <stop offset="1" stop-color="#7209b7"/>
     </linearGradient>
-    <linearGradient id="g">
+    <linearGradient id="cosmos-g">
       <stop offset="0" stop-color="#4cc9f0"/>
       <stop offset=".166" stop-color="#c143ee"/>
       <stop offset=".51" stop-color="#0e0ca3"/>
       <stop offset="1" stop-color="#3a0ca3" stop-opacity=".03"/>
     </linearGradient>
-    <linearGradient id="f">
+    <linearGradient id="cosmos-f">
       <stop offset="0" stop-color="#4cc9f0"/>
       <stop offset=".166" stop-color="#4361ee"/>
       <stop offset=".51" stop-color="#3a0ca3"/>
       <stop offset="1" stop-color="#3a0ca3" stop-opacity=".03"/>
     </linearGradient>
-    <linearGradient id="d">
+    <linearGradient id="cosmos-d">
       <stop offset="0" stop-color="#9d0208"/>
       <stop offset="1" stop-color="#4f0204"/>
     </linearGradient>
-    <linearGradient id="e">
+    <linearGradient id="cosmos-e">
       <stop offset="0" stop-color="#f8910a"/>
       <stop offset="1" stop-color="#dc2f02"/>
     </linearGradient>
-    <linearGradient id="c">
+    <linearGradient id="cosmos-c">
       <stop offset="0" stop-color="#9d0208"/>
       <stop offset="1" stop-color="#740206"/>
     </linearGradient>
-    <linearGradient id="b">
+    <linearGradient id="cosmos-b">
       <stop offset="0" stop-color="#6a040f"/>
       <stop offset="1" stop-color="#48020a"/>
     </linearGradient>
-    <linearGradient id="a">
+    <linearGradient id="cosmos-a">
       <stop offset="0" stop-color="#03045e"/>
       <stop offset="1" stop-color="#01012a"/>
     </linearGradient>
-    <linearGradient id="l" x1="181.908" x2="211.113" y1="49.194" y2="81.517" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-    <linearGradient id="m" x1="161.76" x2="235.909" y1="100.734" y2="116.343" gradientTransform="matrix(.92037 0 0 .88943 16.643 11.354)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-    <linearGradient id="n" x1="152.921" x2="202.021" y1="68.363" y2="103.658" gradientTransform="translate(2.03 -.32)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
-    <linearGradient id="p" x1="177.266" x2="203.601" y1="98.559" y2="109.778" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
-    <linearGradient id="o" x1="177.788" x2="183.399" y1="155.683" y2="161.219" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
-    <linearGradient id="j" x1="181.908" x2="211.113" y1="49.194" y2="81.517" gradientTransform="matrix(.90427 0 0 .86752 -14.01 -19.473)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-    <linearGradient id="q" x1="155.102" x2="155.102" y1="57.072" y2="25.595" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#f"/>
-    <linearGradient id="t" x1="155.102" x2="155.102" y1="57.072" y2="25.595" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#g"/>
-    <linearGradient id="v" x1="180.249" x2="255.105" y1="71.934" y2="143.192" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
-    <filter id="k" width="1.099" height="1.1" x="-.05" y="-.05" color-interpolation-filters="sRGB">
+    <linearGradient id="cosmos-l" x1="181.908" x2="211.113" y1="49.194" y2="81.517" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-b"/>
+    <linearGradient id="cosmos-m" x1="161.76" x2="235.909" y1="100.734" y2="116.343" gradientTransform="matrix(.92037 0 0 .88943 16.643 11.354)" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-c"/>
+    <linearGradient id="cosmos-n" x1="152.921" x2="202.021" y1="68.363" y2="103.658" gradientTransform="translate(2.03 -.32)" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-d"/>
+    <linearGradient id="cosmos-p" x1="177.266" x2="203.601" y1="98.559" y2="109.778" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-e"/>
+    <linearGradient id="cosmos-o" x1="177.788" x2="183.399" y1="155.683" y2="161.219" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-e"/>
+    <linearGradient id="cosmos-j" x1="181.908" x2="211.113" y1="49.194" y2="81.517" gradientTransform="matrix(.90427 0 0 .86752 -14.01 -19.473)" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-b"/>
+    <linearGradient id="cosmos-q" x1="155.102" x2="155.102" y1="57.072" y2="25.595" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#cosmos-f"/>
+    <linearGradient id="cosmos-t" x1="155.102" x2="155.102" y1="57.072" y2="25.595" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#cosmos-g"/>
+    <linearGradient id="cosmos-v" x1="180.249" x2="255.105" y1="71.934" y2="143.192" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-h"/>
+    <filter id="cosmos-k" width="1.099" height="1.1" x="-.05" y="-.05" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="1.491"/>
     </filter>
-    <filter id="s" width="1.79" height="1.728" x="-.395" y="-.364" color-interpolation-filters="sRGB">
+    <filter id="cosmos-s" width="1.79" height="1.728" x="-.395" y="-.364" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation=".399"/>
     </filter>
-    <filter id="r" width="1.407" height="1.033" x="-.203" y="-.017" color-interpolation-filters="sRGB">
+    <filter id="cosmos-r" width="1.407" height="1.033" x="-.203" y="-.017" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation=".227"/>
     </filter>
-    <filter id="u" width="1.568" height="1.637" x="-.284" y="-.318" color-interpolation-filters="sRGB">
+    <filter id="cosmos-u" width="1.568" height="1.637" x="-.284" y="-.318" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="9.669"/>
     </filter>
-    <filter id="w" width="1.553" height="1.623" x="-.277" y="-.312" color-interpolation-filters="sRGB">
+    <filter id="cosmos-w" width="1.553" height="1.623" x="-.277" y="-.312" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation=".293"/>
     </filter>
-    <radialGradient id="i" cx="98.768" cy="96.463" r="66.146" fx="98.768" fy="96.463" gradientTransform="matrix(2.20732 .19903 -.09143 1.014 -88.023 -15.209)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <radialGradient id="cosmos-i" cx="98.768" cy="96.463" r="66.146" fx="98.768" fy="96.463" gradientTransform="matrix(2.20732 .19903 -.09143 1.014 -88.023 -15.209)" gradientUnits="userSpaceOnUse" xlink:href="#cosmos-a"/>
   </defs>
-  <path fill="url(#i)" fill-rule="evenodd" d="M0 0h132.292v132.292H0z" paint-order="fill markers stroke"/>
-  <path fill="url(#j)" fill-rule="evenodd" d="M207.511 46.789A36.051 35.673 0 01171.46 82.46a36.051 35.673 0 01-36.051-35.672 36.051 35.673 0 0136.051-35.673 36.051 35.673 0 0136.051 35.673z" filter="url(#k)" paint-order="fill markers stroke" transform="translate(-105.314 19.357)"/>
+  <path fill="url(#cosmos-i)" fill-rule="evenodd" d="M0 0h132.292v132.292H0z" paint-order="fill markers stroke"/>
+  <path fill="url(#cosmos-j)" fill-rule="evenodd" d="M207.511 46.789A36.051 35.673 0 01171.46 82.46a36.051 35.673 0 01-36.051-35.672 36.051 35.673 0 0136.051-35.673 36.051 35.673 0 0136.051 35.673z" filter="url(#cosmos-k)" paint-order="fill markers stroke" transform="translate(-105.314 19.357)"/>
   <g stroke-width="1.129" transform="matrix(.90427 0 0 .86752 -119.325 -.116)">
-    <ellipse cx="205.104" cy="76.38" fill="url(#l)" fill-rule="evenodd" paint-order="fill markers stroke" rx="39.868" ry="41.12"/>
-    <path fill="url(#m)" d="M218.887 78.26c-.898.012-1.863.162-2.904.481-13.334 4.082-2.13 17.317-7.263 20.358-5.133 3.04-9.668-19.316-13.557-2.587-3.299 14.185-18.848 5.278-23.513 2.234a38.677 38.55 0 0031.506 16.19 38.677 38.55 0 0038.547-35.408c-1.52 1-3.424 2.74-5.41 6.63-5.656 11.073-6.813-8.042-17.406-7.898z" opacity=".747"/>
-    <ellipse cx="185.068" cy="88.895" fill="url(#n)" fill-rule="evenodd" opacity=".747" paint-order="fill markers stroke" rx="24.482" ry="14.406" transform="matrix(.98035 -.19726 .2121 .97725 0 0)"/>
-    <ellipse cx="180.542" cy="155.683" fill="url(#o)" fill-rule="evenodd" opacity=".747" paint-order="fill markers stroke" rx="2.754" ry="1.403" transform="matrix(.8358 -.54903 .26569 .96406 0 0)"/>
-    <ellipse cx="199.972" cy="100.041" fill="url(#p)" fill-rule="evenodd" opacity=".747" paint-order="fill markers stroke" rx="10.885" ry="4.726" transform="matrix(.96076 -.27737 .14247 .9898 0 0)"/>
+    <ellipse cx="205.104" cy="76.38" fill="url(#cosmos-l)" fill-rule="evenodd" paint-order="fill markers stroke" rx="39.868" ry="41.12"/>
+    <path fill="url(#cosmos-m)" d="M218.887 78.26c-.898.012-1.863.162-2.904.481-13.334 4.082-2.13 17.317-7.263 20.358-5.133 3.04-9.668-19.316-13.557-2.587-3.299 14.185-18.848 5.278-23.513 2.234a38.677 38.55 0 0031.506 16.19 38.677 38.55 0 0038.547-35.408c-1.52 1-3.424 2.74-5.41 6.63-5.656 11.073-6.813-8.042-17.406-7.898z" opacity=".747"/>
+    <ellipse cx="185.068" cy="88.895" fill="url(#cosmos-n)" fill-rule="evenodd" opacity=".747" paint-order="fill markers stroke" rx="24.482" ry="14.406" transform="matrix(.98035 -.19726 .2121 .97725 0 0)"/>
+    <ellipse cx="180.542" cy="155.683" fill="url(#cosmos-o)" fill-rule="evenodd" opacity=".747" paint-order="fill markers stroke" rx="2.754" ry="1.403" transform="matrix(.8358 -.54903 .26569 .96406 0 0)"/>
+    <ellipse cx="199.972" cy="100.041" fill="url(#cosmos-p)" fill-rule="evenodd" opacity=".747" paint-order="fill markers stroke" rx="10.885" ry="4.726" transform="matrix(.96076 -.27737 .14247 .9898 0 0)"/>
     <path fill="#cb6906" fill-rule="evenodd" d="M174.605 68.108a4.295 5.252 17.326 00-.042 0 4.295 5.252 17.326 00-.09.003 4.295 5.252 17.326 00-.09.005 4.295 5.252 17.326 00-.082.005 4.295 5.252 17.326 00-.013.001 4.295 5.252 17.326 00-.085.008 4.295 5.252 17.326 00-.075.01 4.295 5.252 17.326 00-.037.004 4.295 5.252 17.326 00-.068.01 4.295 5.252 17.326 00-.084.014 4.295 5.252 17.326 00-.018.003 4.295 5.252 17.326 00-.079.015 4.295 5.252 17.326 00-.09.02 4.295 5.252 17.326 00-.089.02 4.295 5.252 17.326 00-.074.02 4.295 5.252 17.326 00-.031.009 4.295 5.252 17.326 00-.059.017 4.295 5.252 17.326 00-.033.01 4.295 5.252 17.326 00-.029.008 4.295 5.252 17.326 00-.042.014 4.295 5.252 17.326 00-.088.03 4.295 5.252 17.326 00-.002 0 4.295 5.252 17.326 00-.087.032 4.295 5.252 17.326 00-.083.032 4.295 5.252 17.326 00-.01.004 4.295 5.252 17.326 00-.075.031 4.295 5.252 17.326 00-.017.007 4.295 5.252 17.326 00-.078.035 4.295 5.252 17.326 00-.08.036 4.295 5.252 17.326 00-.02.01 4.295 5.252 17.326 00-.052.025 4.295 5.252 17.326 00-.049.025 4.295 5.252 17.326 00-.052.027 4.295 5.252 17.326 00-.009.004 4.295 5.252 17.326 00-.082.045 4.295 5.252 17.326 00-.085.049 4.295 5.252 17.326 00-.084.05 4.295 5.252 17.326 00-.083.052 4.295 5.252 17.326 00-.083.054 4.295 5.252 17.326 00-.06.04 4.295 5.252 17.326 00-.04.029 4.295 5.252 17.326 00-.062.044 4.295 5.252 17.326 00-.08.06 4.295 5.252 17.326 00-.079.061 4.295 5.252 17.326 00-.078.063 4.295 5.252 17.326 00-.077.065 4.295 5.252 17.326 00-.067.059 4.295 5.252 17.326 00-.015.013 4.295 5.252 17.326 00-.068.06 4.295 5.252 17.326 00-.004.004 4.295 5.252 17.326 00-.071.068 4.295 5.252 17.326 00-.074.072 4.295 5.252 17.326 00-.067.067 4.295 5.252 17.326 00-.021.023 4.295 5.252 17.326 00-.028.029 4.295 5.252 17.326 00-.053.056 4.295 5.252 17.326 00-.027.03 4.295 5.252 17.326 00-.027.03 4.295 5.252 17.326 00-.058.066 4.295 5.252 17.326 00-.05.058 4.295 5.252 17.326 00-.034.042 4.295 5.252 17.326 00-.037.044 4.295 5.252 17.326 00-.036.046 4.295 5.252 17.326 00-.02.024 4.295 5.252 17.326 00-.036.046 4.295 5.252 17.326 00-.02.026 4.295 5.252 17.326 00-.03.04 4.295 5.252 17.326 00-.057.078 4.295 5.252 17.326 00-.014.019 4.295 5.252 17.326 00-.046.065 4.295 5.252 17.326 00-.01.013 4.295 5.252 17.326 00-.055.082 4.295 5.252 17.326 00-.055.084 4.295 5.252 17.326 00-.008.012 4.295 5.252 17.326 00-.052.083 4.295 5.252 17.326 00-.056.09 4.295 5.252 17.326 00-.045.08 4.295 5.252 17.326 00-.023.04 4.295 5.252 17.326 00-.025.043 4.295 5.252 17.326 00-.02.036 4.295 5.252 17.326 00-.043.08 4.295 5.252 17.326 00-.05.096 4.295 5.252 17.326 00-.04.083 4.295 5.252 17.326 00-.018.035 4.295 5.252 17.326 00-.027.056 4.295 5.252 17.326 00-.02.046 4.295 5.252 17.326 00-.017.034 4.295 5.252 17.326 00-.032.074 4.295 5.252 17.326 00-.017.04 4.295 5.252 17.326 00-.023.052 4.295 5.252 17.326 00-.012.03 4.295 5.252 17.326 00-.037.091 4.295 5.252 17.326 00-.03.076 4.295 5.252 17.326 00-.018.049 4.295 5.252 17.326 00-.009.024 4.295 5.252 17.326 00-.019.053 4.295 5.252 17.326 00-.024.07 4.295 5.252 17.326 00-.022.063 4.295 5.252 17.326 00-.015.048 4.295 5.252 17.326 00-.017.053 4.295 5.252 17.326 00-.009.03 4.295 5.252 17.326 00-.024.081 4.295 5.252 17.326 00-.01.036 4.295 5.252 17.326 00-.015.053 4.295 5.252 17.326 00-.012.043 4.295 5.252 17.326 00-.02.076 4.295 5.252 17.326 00-.009.029 4.295 5.252 17.326 00-.014.06 4.295 5.252 17.326 00-.02.08 4.295 5.252 17.326 000 .002 4.295 5.252 17.326 00-.023.105 4.295 5.252 17.326 000 .001 4.295 5.252 17.326 00-.018.09 4.295 5.252 17.326 00-.003.014 4.295 5.252 17.326 00-.01.05 4.295 5.252 17.326 00-.018.107 4.295 5.252 17.326 00-.012.075 4.295 5.252 17.326 00-.012.081 4.295 5.252 17.326 00-.015.104 4.295 5.252 17.326 000 .004 4.295 5.252 17.326 00-.012.104 4.295 5.252 17.326 00-.006.057 4.295 5.252 17.326 00-.009.1 4.295 5.252 17.326 000 .012 4.295 5.252 17.326 00-.007.086 4.295 5.252 17.326 00-.002.038 4.295 5.252 17.326 00-.003.053 4.295 5.252 17.326 00-.002.043 4.295 5.252 17.326 00-.003.071 4.295 5.252 17.326 00-.002.061 4.295 5.252 17.326 000 .02 4.295 5.252 17.326 000 .06 4.295 5.252 17.326 000 .089 4.295 5.252 17.326 000 .002 4.295 5.252 17.326 000 .05 4.295 5.252 17.326 00.002.106 4.295 5.252 17.326 00.003.078 4.295 5.252 17.326 00.004.081 4.295 5.252 17.326 00.006.087 4.295 5.252 17.326 00.003.036 4.295 5.252 17.326 00.008.086 4.295 5.252 17.326 00.007.067 4.295 5.252 17.326 00.021.177 4.295 5.252 17.326 00.006.04 4.295 5.252 17.326 00.007.044 4.295 5.252 17.326 00.007.044 4.295 5.252 17.326 00.012.071 4.295 5.252 17.326 00.008.04 4.295 5.252 17.326 00.012.059 4.295 5.252 17.326 00.004.024 4.295 5.252 17.326 00.017.085 4.295 5.252 17.326 00.004.019 4.295 5.252 17.326 00.015.07 4.295 5.252 17.326 00.01.035 4.295 5.252 17.326 00.02.08 4.295 5.252 17.326 000 .002 4.295 5.252 17.326 00.019.072 4.295 5.252 17.326 00.013.048 4.295 5.252 17.326 00.008.027 4.295 5.252 17.326 00.014.046 4.295 5.252 17.326 00.024.078 4.295 5.252 17.326 00.006.017 4.295 5.252 17.326 00.017.05 4.295 5.252 17.326 00.024.073 4.295 5.252 17.326 00.021.058 4.295 5.252 17.326 00.006.016 4.295 5.252 17.326 00.024.064 4.295 5.252 17.326 00.016.041 4.295 5.252 17.326 00.026.065 4.295 5.252 17.326 00.006.014 4.295 5.252 17.326 00.024.058 4.295 5.252 17.326 00.032.071 4.295 5.252 17.326 00.024.053 4.295 5.252 17.326 00.031.067 4.295 5.252 17.326 00.016.033 4.295 5.252 17.326 00.019.037 4.295 5.252 17.326 00.037.073 4.295 5.252 17.326 00.034.064 4.295 5.252 17.326 00.023.04 4.295 5.252 17.326 00.011.02 4.295 5.252 17.326 00.025.044 4.295 5.252 17.326 00.04.067 4.295 5.252 17.326 00.026.043 4.295 5.252 17.326 00.012.019 4.295 5.252 17.326 00.043.068 4.295 5.252 17.326 00.007.01 4.295 5.252 17.326 00.038.057 4.295 5.252 17.326 00.028.04 4.295 5.252 17.326 00.016.024 4.295 5.252 17.326 00.05.068 4.295 5.252 17.326 00.054.073 4.295 5.252 17.326 00.004.005 4.295 5.252 17.326 00.038.049 4.295 5.252 17.326 00.043.053 4.295 5.252 17.326 00.007.008 4.295 5.252 17.326 00.055.064 4.295 5.252 17.326 00.002.003 4.295 5.252 17.326 00.06.068 4.295 5.252 17.326 00.05.055 4.295 5.252 17.326 00.036.038 4.295 5.252 17.326 00.019.019 4.295 5.252 17.326 00.035.036 4.295 5.252 17.326 00.035.034 4.295 5.252 17.326 00.049.047 4.295 5.252 17.326 00.003.004 4.295 5.252 17.326 00.045.041 4.295 5.252 17.326 00.053.047 4.295 5.252 17.326 00.058.05 4.295 5.252 17.326 00.03.025 4.295 5.252 17.326 00.034.027 4.295 5.252 17.326 00.027.022 4.295 5.252 17.326 00.047.036 4.295 5.252 17.326 00.014.011 4.295 5.252 17.326 00.046.033 4.295 5.252 17.326 00.043.032 4.295 5.252 17.326 00.05.036 4.295 5.252 17.326 00.01.006 4.295 5.252 17.326 00.063.042 4.295 5.252 17.326 00.018.011 4.295 5.252 17.326 00.066.041 4.295 5.252 17.326 00.07.043 4.295 5.252 17.326 00.018.01 4.295 5.252 17.326 00.046.026 4.295 5.252 17.326 00.058.03 4.295 5.252 17.326 00.006.004 4.295 5.252 17.326 00.062.032 4.295 5.252 17.326 00.028.014 4.295 5.252 17.326 00.055.026 4.295 5.252 17.326 00.027.013 4.295 5.252 17.326 00.036.016 4.295 5.252 17.326 00.052.023 4.295 5.252 17.326 00.045.02 4.295 5.252 17.326 00.02.007 4.295 5.252 17.326 00.064.025 4.295 5.252 17.326 00.021.008 4.295 5.252 17.326 00.064.024 4.295 5.252 17.326 00.027.009 4.295 5.252 17.326 00.03.01 4.295 5.252 17.326 00.06.02 4.295 5.252 17.326 00.042.013 4.295 5.252 17.326 00.034.01 4.295 5.252 17.326 00.069.019 4.295 5.252 17.326 00.08.02 4.295 5.252 17.326 00.009.003 4.295 5.252 17.326 00.062.014 4.295 5.252 17.326 00.061.013 4.295 5.252 17.326 00.087.016 4.295 5.252 17.326 00.088.014 4.295 5.252 17.326 00.087.013 4.295 5.252 17.326 00.088.01 4.295 5.252 17.326 005.148-4.62 4.295 5.252 17.326 00-2.543-5.49 4.295 5.252 17.326 00-.002 0 4.295 5.252 17.326 00-.155-.053 4.295 5.252 17.326 00-.03-.01 4.295 5.252 17.326 00-.064-.019 4.295 5.252 17.326 00-.068-.019 4.295 5.252 17.326 00-.018-.005 4.295 5.252 17.326 00-.02-.004 4.295 5.252 17.326 00-.008-.003 4.295 5.252 17.326 00-.075-.018 4.295 5.252 17.326 00-.002 0 4.295 5.252 17.326 00-.006-.001 4.295 5.252 17.326 00-.08-.018 4.295 5.252 17.326 00-.003 0 4.295 5.252 17.326 00-.086-.016 4.295 5.252 17.326 00-.087-.015 4.295 5.252 17.326 00-.087-.012 4.295 5.252 17.326 00-.042-.005 4.295 5.252 17.326 00-.17-.015 4.295 5.252 17.326 00-.008 0 4.295 5.252 17.326 00-.011-.001 4.295 5.252 17.326 00-.071-.003 4.295 5.252 17.326 00-.007 0 4.295 5.252 17.326 00-.007 0 4.295 5.252 17.326 00-.082-.003 4.295 5.252 17.326 00-.048-.001z" paint-order="fill markers stroke"/>
     <g fill-rule="evenodd" stroke-width="1.509" paint-order="fill markers stroke" transform="matrix(-.61642 .451 -.47696 -.55885 290.47 34.762)">
       <ellipse cx="139.392" cy="-74.041" fill="#370617" rx="5.006" ry="6.82" transform="rotate(46.992)"/>
@@ -119,14 +119,14 @@
     <ellipse cx="208.44" cy="69.523" fill="#7b0208" fill-rule="evenodd" paint-order="fill markers stroke" rx=".767" ry=".666"/>
   </g>
   <g stroke-width="1.602" transform="matrix(.5342 .30226 -.28416 .56823 43.35 -51.954)">
-    <path fill="url(#q)" d="M155.102 25.595v32.078h2.686V25.035z" filter="url(#r)" transform="matrix(.95693 0 0 1 6.68 0)"/>
-    <ellipse cx="156.377" cy="57.68" fill="#4cc8f0" fill-opacity=".969" fill-rule="evenodd" stroke="#3a0ca3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".03" stroke-width=".324" filter="url(#s)" paint-order="fill markers stroke" rx="1.211" ry="1.314" transform="matrix(1.42896 0 0 1.1999 -66.998 -11.507)"/>
+    <path fill="url(#cosmos-q)" d="M155.102 25.595v32.078h2.686V25.035z" filter="url(#cosmos-r)" transform="matrix(.95693 0 0 1 6.68 0)"/>
+    <ellipse cx="156.377" cy="57.68" fill="#4cc8f0" fill-opacity=".969" fill-rule="evenodd" stroke="#3a0ca3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".03" stroke-width=".324" filter="url(#cosmos-s)" paint-order="fill markers stroke" rx="1.211" ry="1.314" transform="matrix(1.42896 0 0 1.1999 -66.998 -11.507)"/>
   </g>
   <g stroke-width="1.602" transform="matrix(.52187 .32308 -.30634 .55658 -49.622 24.108)">
-    <path fill="url(#t)" d="M155.102 25.595v32.078h2.686V25.035z" filter="url(#r)" transform="matrix(.95693 0 0 1 6.68 0)"/>
-    <ellipse cx="156.377" cy="57.68" fill="#4cc8f0" fill-opacity=".969" fill-rule="evenodd" stroke="#3a0ca3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".03" stroke-width=".324" filter="url(#s)" paint-order="fill markers stroke" rx="1.211" ry="1.314" transform="matrix(1.42896 0 0 1.1999 -66.998 -11.507)"/>
+    <path fill="url(#cosmos-t)" d="M155.102 25.595v32.078h2.686V25.035z" filter="url(#cosmos-r)" transform="matrix(.95693 0 0 1 6.68 0)"/>
+    <ellipse cx="156.377" cy="57.68" fill="#4cc8f0" fill-opacity=".969" fill-rule="evenodd" stroke="#3a0ca3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".03" stroke-width=".324" filter="url(#cosmos-s)" paint-order="fill markers stroke" rx="1.211" ry="1.314" transform="matrix(1.42896 0 0 1.1999 -66.998 -11.507)"/>
   </g>
-  <g fill="#5815ef" fill-opacity=".847" fill-rule="evenodd" stroke-width="6" filter="url(#u)" paint-order="fill markers stroke" transform="translate(-10.676 -.05) scale(.16666)">
+  <g fill="#5815ef" fill-opacity=".847" fill-rule="evenodd" stroke-width="6" filter="url(#cosmos-u)" paint-order="fill markers stroke" transform="translate(-10.676 -.05) scale(.16666)">
     <ellipse cx="204.492" cy="101.26" rx="40.866" ry="36.429"/>
     <ellipse cx="198.838" cy="126.712" rx="9.695" ry="3.515"/>
     <ellipse cx="203.78" cy="130.648" rx="4.558" ry="2.68"/>
@@ -134,19 +134,19 @@
     <ellipse cx="212.179" cy="125.353" rx="4.558" ry="2.68"/>
   </g>
   <g fill-rule="evenodd" stroke-width="6" paint-order="fill markers stroke" transform="translate(-10.676 -.05) scale(.16666)">
-    <ellipse cx="204.492" cy="101.26" fill="url(#v)" rx="40.866" ry="36.429"/>
+    <ellipse cx="204.492" cy="101.26" fill="url(#cosmos-v)" rx="40.866" ry="36.429"/>
     <ellipse cx="198.838" cy="126.712" fill="#290874" fill-opacity=".847" rx="9.695" ry="3.515"/>
     <ellipse cx="203.78" cy="130.648" fill="#290874" fill-opacity=".847" rx="4.558" ry="2.68"/>
     <ellipse cx="178.698" cy="117.938" fill="#2d097e" rx="4.558" ry="2.68"/>
     <ellipse cx="212.179" cy="125.353" fill="#290874" fill-opacity=".847" rx="4.558" ry="2.68"/>
   </g>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 5.224 25.916)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 12.387 41.187)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 37.786 77.411)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 27.043 92.319)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 112.567 6.926)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 103.589 69.72)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 28.677 -24.206)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 100.113 76.594)"/>
-  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 105.938 73.97)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 5.224 25.916)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 12.387 41.187)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 37.786 77.411)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 27.043 92.319)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 112.567 6.926)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 103.589 69.72)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 28.677 -24.206)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 100.113 76.594)"/>
+  <ellipse cx="13.648" cy="59.877" fill="#fff" fill-opacity=".847" fill-rule="evenodd" filter="url(#cosmos-w)" paint-order="fill markers stroke" rx="1.271" ry="1.128" transform="matrix(.57793 0 0 .55887 105.938 73.97)"/>
 </svg>

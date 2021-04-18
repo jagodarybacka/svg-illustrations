@@ -13,20 +13,16 @@ const list = [
     title: 'Cosmos'
   },
   {
-    svg: RingsSvg,
-    title: 'Rings'
-  },
-  {
     svg: BirdSvg,
     title: 'Bird'
   },
   {
-    svg: AirplaneSvg,
-    title: 'Airplane'
+    svg: RingsSvg,
+    title: 'Rings'
   },
   {
-    svg: BrainSvg,
-    title: 'Brain'
+    svg: AirplaneSvg,
+    title: 'Airplane'
   },
   {
     svg: GandalfSvg,
@@ -35,6 +31,10 @@ const list = [
   {
     svg: SauronSvg,
     title: 'Sauron'
+  },
+  {
+    svg: BrainSvg,
+    title: 'Brain'
   }
 ];
 
@@ -42,7 +42,6 @@ export function getSvgs() {
   return list.map(item => (
     <div className="svg-tile" key={item.title}>
       <item.svg />
-      <p>{item.title}</p>
     </div>
   ));
 }
