@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ad8db64.chunk.css",
+    "main.js": "/static/js/main.c2778f2f.chunk.js",
+    "main.js.map": "/static/js/main.c2778f2f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01fbdf79.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01fbdf79.js.map",
+    "static/js/2.f89fa5ef.chunk.js": "/static/js/2.f89fa5ef.chunk.js",
+    "static/js/2.f89fa5ef.chunk.js.map": "/static/js/2.f89fa5ef.chunk.js.map",
+    "static/js/3.210893ff.chunk.js": "/static/js/3.210893ff.chunk.js",
+    "static/js/3.210893ff.chunk.js.map": "/static/js/3.210893ff.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9ad8db64.chunk.css.map": "/static/css/main.9ad8db64.chunk.css.map",
+    "static/js/2.f89fa5ef.chunk.js.LICENSE.txt": "/static/js/2.f89fa5ef.chunk.js.LICENSE.txt",
+    "static/media/airplane.e52c31e4.svg": "/static/media/airplane.e52c31e4.svg",
+    "static/media/bird.0b3cc6a9.svg": "/static/media/bird.0b3cc6a9.svg",
+    "static/media/brain.410287e0.svg": "/static/media/brain.410287e0.svg",
+    "static/media/cosmos.f71e5ac7.svg": "/static/media/cosmos.f71e5ac7.svg",
+    "static/media/gandalf.2d71a5b8.svg": "/static/media/gandalf.2d71a5b8.svg",
+    "static/media/rings.5ba42993.svg": "/static/media/rings.5ba42993.svg",
+    "static/media/sauron.8438a6fe.svg": "/static/media/sauron.8438a6fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01fbdf79.js",
+    "static/js/2.f89fa5ef.chunk.js",
+    "static/css/main.9ad8db64.chunk.css",
+    "static/js/main.c2778f2f.chunk.js"
+  ]
+}
